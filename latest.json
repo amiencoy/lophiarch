@@ -2,18 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-10-12T09:08:40.922882+00:00",
+  "captured_at": "2026-10-13T09:23:09.877350+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 191,
-      "uniques": 93,
+      "count": 187,
+      "uniques": 88,
       "clones": [
-        {
-          "timestamp": "2026-09-28T00:00:00Z",
-          "count": 25,
-          "uniques": 11
-        },
         {
           "timestamp": "2026-09-29T00:00:00Z",
           "count": 5,
@@ -78,18 +73,18 @@
           "timestamp": "2026-10-11T00:00:00Z",
           "count": 9,
           "uniques": 6
+        },
+        {
+          "timestamp": "2026-10-12T00:00:00Z",
+          "count": 21,
+          "uniques": 7
         }
       ]
     },
     "views": {
-      "count": 15,
+      "count": 14,
       "uniques": 1,
       "views": [
-        {
-          "timestamp": "2026-09-28T00:00:00Z",
-          "count": 1,
-          "uniques": 1
-        },
         {
           "timestamp": "2026-09-29T00:00:00Z",
           "count": 0,
@@ -154,6 +149,11 @@
           "timestamp": "2026-10-11T00:00:00Z",
           "count": 9,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-10-12T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
@@ -162,7 +162,7 @@
       {
         "path": "/amiencoy/lophiarch",
         "title": "Overview",
-        "count": 13,
+        "count": 12,
         "uniques": 1
       },
       {
