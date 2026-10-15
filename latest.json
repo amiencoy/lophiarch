@@ -2,23 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-10-14T07:34:49.458485+00:00",
+  "captured_at": "2026-10-15T07:23:34.612690+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 187,
-      "uniques": 88,
+      "count": 202,
+      "uniques": 93,
       "clones": [
-        {
-          "timestamp": "2026-09-29T00:00:00Z",
-          "count": 5,
-          "uniques": 5
-        },
-        {
-          "timestamp": "2026-09-30T00:00:00Z",
-          "count": 3,
-          "uniques": 3
-        },
         {
           "timestamp": "2026-10-01T00:00:00Z",
           "count": 1,
@@ -78,23 +68,23 @@
           "timestamp": "2026-10-12T00:00:00Z",
           "count": 21,
           "uniques": 7
+        },
+        {
+          "timestamp": "2026-10-13T00:00:00Z",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "timestamp": "2026-10-14T00:00:00Z",
+          "count": 18,
+          "uniques": 11
         }
       ]
     },
     "views": {
-      "count": 14,
+      "count": 16,
       "uniques": 1,
       "views": [
-        {
-          "timestamp": "2026-09-29T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
-        {
-          "timestamp": "2026-09-30T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-10-01T00:00:00Z",
           "count": 5,
@@ -154,6 +144,16 @@
           "timestamp": "2026-10-12T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-13T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-10-14T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -162,7 +162,7 @@
       {
         "path": "/amiencoy/lophiarch",
         "title": "Overview",
-        "count": 12,
+        "count": 14,
         "uniques": 1
       },
       {
