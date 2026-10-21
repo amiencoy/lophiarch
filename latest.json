@@ -2,18 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-10-20T07:29:45.189849+00:00",
+  "captured_at": "2026-10-21T07:35:06.632893+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 184,
-      "uniques": 95,
+      "count": 161,
+      "uniques": 82,
       "clones": [
-        {
-          "timestamp": "2026-10-06T00:00:00Z",
-          "count": 35,
-          "uniques": 23
-        },
         {
           "timestamp": "2026-10-07T00:00:00Z",
           "count": 14,
@@ -78,18 +73,18 @@
           "timestamp": "2026-10-19T00:00:00Z",
           "count": 8,
           "uniques": 4
+        },
+        {
+          "timestamp": "2026-10-20T00:00:00Z",
+          "count": 12,
+          "uniques": 8
         }
       ]
     },
     "views": {
-      "count": 12,
-      "uniques": 1,
+      "count": 14,
+      "uniques": 2,
       "views": [
-        {
-          "timestamp": "2026-10-06T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-10-07T00:00:00Z",
           "count": 0,
@@ -154,6 +149,11 @@
           "timestamp": "2026-10-19T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-20T00:00:00Z",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -168,6 +168,12 @@
       {
         "path": "/amiencoy/lophiarch/pulls",
         "title": "/pulls",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/blob/HEAD/CHANGELOG.md",
+        "title": "/blob/HEAD/CHANGELOG.md",
         "count": 1,
         "uniques": 1
       }
