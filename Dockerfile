@@ -6,7 +6,7 @@
 # NB: main.py is dead. The true entrypoint is now bot.py                               #
 # ==================================================================================== #
 
-FROM python:3.14-alpine
+FROM python:3.15-alpine
 
 LABEL maintainer="amiencoy"
 LABEL description="Lophiarch - Modern Cloud-Native Recon Bot"
