@@ -13,5 +13,5 @@ mcp==1.30.0
 msgpack==1.2.2
 python-dotenv==1.2.3
 PyYAML==6.0.3
-reportlab==5.0.1
+reportlab==5.1.0
 setuptools==84.0.0
