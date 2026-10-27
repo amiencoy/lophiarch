@@ -2,18 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-10-26T07:45:31.807897+00:00",
+  "captured_at": "2026-10-27T07:48:25.524131+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 140,
-      "uniques": 68,
+      "count": 165,
+      "uniques": 75,
       "clones": [
-        {
-          "timestamp": "2026-10-12T00:00:00Z",
-          "count": 21,
-          "uniques": 7
-        },
         {
           "timestamp": "2026-10-13T00:00:00Z",
           "count": 5,
@@ -78,18 +73,18 @@
           "timestamp": "2026-10-25T00:00:00Z",
           "count": 3,
           "uniques": 3
+        },
+        {
+          "timestamp": "2026-10-26T00:00:00Z",
+          "count": 46,
+          "uniques": 14
         }
       ]
     },
     "views": {
-      "count": 6,
+      "count": 11,
       "uniques": 3,
       "views": [
-        {
-          "timestamp": "2026-10-12T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-10-13T00:00:00Z",
           "count": 1,
@@ -154,11 +149,22 @@
           "timestamp": "2026-10-25T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-26T00:00:00Z",
+          "count": 5,
+          "uniques": 1
         }
       ]
     },
     "referrers": [],
     "paths": [
+      {
+        "path": "/amiencoy/lophiarch/pulls",
+        "title": "/pulls",
+        "count": 3,
+        "uniques": 1
+      },
       {
         "path": "/amiencoy/lophiarch/blob/HEAD/CHANGELOG.md",
         "title": "/blob/HEAD/CHANGELOG.md",
@@ -172,9 +178,21 @@
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch/pulls",
-        "title": "/pulls",
+        "path": "/amiencoy/lophiarch/issues",
+        "title": "/issues",
         "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/issues/16",
+        "title": "/issues/16",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/pull/17",
+        "title": "/pull/17",
+        "count": 1,
         "uniques": 1
       }
     ]
