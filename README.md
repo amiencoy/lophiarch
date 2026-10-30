@@ -38,17 +38,21 @@ See [collection and methodology](docs/TRAFFIC.md).
 
 ## 📚 Documentation
 
-The complete operational and development documentation is available in the
-[Lophiarch Wiki](https://github.com/amiencoy/lophiarch/wiki).
+The complete operational and development documentation lives in the
+[Draxis Digital documentation library](https://amiencoy.github.io/docs/lophiarch/).
 
 Start with:
 
-- [Getting Started](https://github.com/amiencoy/lophiarch/wiki/Getting-Started)
-- [Architecture Overview](https://github.com/amiencoy/lophiarch/wiki/Architecture-Overview)
-- [Deployment](https://github.com/amiencoy/lophiarch/wiki/Deployment)
-- [Security and Responsible Use](https://github.com/amiencoy/lophiarch/wiki/Security-and-Responsible-Use)
-- [Troubleshooting](https://github.com/amiencoy/lophiarch/wiki/Troubleshooting)
+- [Getting Started](https://amiencoy.github.io/docs/lophiarch/getting-started)
+- [Authorization and Scope](https://amiencoy.github.io/docs/lophiarch/authorization-and-scope)
+- [Architecture](https://amiencoy.github.io/docs/lophiarch/architecture)
+- [Deployment](https://amiencoy.github.io/docs/lophiarch/deployment)
+- [Security and Responsible Use](https://amiencoy.github.io/docs/lophiarch/security)
+- [Troubleshooting](https://amiencoy.github.io/docs/lophiarch/troubleshooting)
 - [Local and Self-Hosted Models](docs/LOCAL_MODELS.md)
+
+The wiki is kept as a single pointer page, because a separate wiki repository
+drifted from the code it described.
 
 ---
 
