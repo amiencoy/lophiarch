@@ -2,18 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-11-01T09:12:49.847336+00:00",
+  "captured_at": "2026-11-02T09:26:00.463532+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 191,
-      "uniques": 81,
+      "count": 183,
+      "uniques": 76,
       "clones": [
-        {
-          "timestamp": "2026-10-18T00:00:00Z",
-          "count": 14,
-          "uniques": 10
-        },
         {
           "timestamp": "2026-10-19T00:00:00Z",
           "count": 8,
@@ -78,18 +73,18 @@
           "timestamp": "2026-10-31T00:00:00Z",
           "count": 13,
           "uniques": 9
+        },
+        {
+          "timestamp": "2026-11-01T00:00:00Z",
+          "count": 6,
+          "uniques": 4
         }
       ]
     },
     "views": {
-      "count": 25,
+      "count": 37,
       "uniques": 5,
       "views": [
-        {
-          "timestamp": "2026-10-18T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-10-19T00:00:00Z",
           "count": 0,
@@ -154,6 +149,11 @@
           "timestamp": "2026-10-31T00:00:00Z",
           "count": 4,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-11-01T00:00:00Z",
+          "count": 12,
+          "uniques": 1
         }
       ]
     },
@@ -166,15 +166,21 @@
     ],
     "paths": [
       {
+        "path": "/amiencoy/lophiarch",
+        "title": "Overview",
+        "count": 13,
+        "uniques": 1
+      },
+      {
         "path": "/amiencoy/lophiarch/wiki",
         "title": "/wiki",
         "count": 5,
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch",
-        "title": "Overview",
-        "count": 4,
+        "path": "/amiencoy/lophiarch/pulls",
+        "title": "/pulls",
+        "count": 3,
         "uniques": 1
       },
       {
@@ -196,12 +202,6 @@
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch/pulls",
-        "title": "/pulls",
-        "count": 2,
-        "uniques": 1
-      },
-      {
         "path": "/amiencoy/lophiarch/wiki/_new",
         "title": "/wiki/_new",
         "count": 2,
@@ -214,14 +214,14 @@
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch/discussions/15",
-        "title": "/discussions/15",
+        "path": "/amiencoy/lophiarch/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
         "count": 1,
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch/edit/main/README.md",
-        "title": "/edit/main/README.md",
+        "path": "/amiencoy/lophiarch/blob/main/SECURITY.md",
+        "title": "/blob/main/SECURITY.md",
         "count": 1,
         "uniques": 1
       }
