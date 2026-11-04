@@ -2,18 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-11-03T09:29:03.099637+00:00",
+  "captured_at": "2026-11-04T09:07:21.288777+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 181,
-      "uniques": 74,
+      "count": 172,
+      "uniques": 70,
       "clones": [
-        {
-          "timestamp": "2026-10-20T00:00:00Z",
-          "count": 12,
-          "uniques": 8
-        },
         {
           "timestamp": "2026-10-21T00:00:00Z",
           "count": 10,
@@ -78,18 +73,18 @@
           "timestamp": "2026-11-02T00:00:00Z",
           "count": 6,
           "uniques": 2
+        },
+        {
+          "timestamp": "2026-11-03T00:00:00Z",
+          "count": 3,
+          "uniques": 3
         }
       ]
     },
     "views": {
-      "count": 37,
-      "uniques": 5,
+      "count": 35,
+      "uniques": 4,
       "views": [
-        {
-          "timestamp": "2026-10-20T00:00:00Z",
-          "count": 2,
-          "uniques": 2
-        },
         {
           "timestamp": "2026-10-21T00:00:00Z",
           "count": 0,
@@ -154,6 +149,11 @@
           "timestamp": "2026-11-02T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-03T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
@@ -178,18 +178,6 @@
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch/pulls",
-        "title": "/pulls",
-        "count": 3,
-        "uniques": 1
-      },
-      {
-        "path": "/amiencoy/lophiarch/blob/HEAD/CHANGELOG.md",
-        "title": "/blob/HEAD/CHANGELOG.md",
-        "count": 2,
-        "uniques": 2
-      },
-      {
         "path": "/amiencoy/lophiarch/pull/17",
         "title": "/pull/17",
         "count": 2,
@@ -202,9 +190,21 @@
         "uniques": 1
       },
       {
+        "path": "/amiencoy/lophiarch/pulls",
+        "title": "/pulls",
+        "count": 2,
+        "uniques": 1
+      },
+      {
         "path": "/amiencoy/lophiarch/wiki/_new",
         "title": "/wiki/_new",
         "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/blob/HEAD/CHANGELOG.md",
+        "title": "/blob/HEAD/CHANGELOG.md",
+        "count": 1,
         "uniques": 1
       },
       {
