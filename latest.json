@@ -2,18 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-11-06T09:20:34.418933+00:00",
+  "captured_at": "2026-11-07T08:44:31.103578+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 178,
-      "uniques": 71,
+      "count": 175,
+      "uniques": 68,
       "clones": [
-        {
-          "timestamp": "2026-10-23T00:00:00Z",
-          "count": 4,
-          "uniques": 4
-        },
         {
           "timestamp": "2026-10-24T00:00:00Z",
           "count": 10,
@@ -78,18 +73,18 @@
           "timestamp": "2026-11-05T00:00:00Z",
           "count": 9,
           "uniques": 5
+        },
+        {
+          "timestamp": "2026-11-06T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
     "views": {
-      "count": 35,
-      "uniques": 4,
+      "count": 34,
+      "uniques": 3,
       "views": [
-        {
-          "timestamp": "2026-10-23T00:00:00Z",
-          "count": 1,
-          "uniques": 1
-        },
         {
           "timestamp": "2026-10-24T00:00:00Z",
           "count": 0,
@@ -154,6 +149,11 @@
           "timestamp": "2026-11-05T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-06T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
@@ -202,12 +202,6 @@
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch/blob/HEAD/CHANGELOG.md",
-        "title": "/blob/HEAD/CHANGELOG.md",
-        "count": 1,
-        "uniques": 1
-      },
-      {
         "path": "/amiencoy/lophiarch/blob/HEAD/SECURITY.md",
         "title": "/blob/HEAD/SECURITY.md",
         "count": 1,
@@ -222,6 +216,12 @@
       {
         "path": "/amiencoy/lophiarch/blob/main/SECURITY.md",
         "title": "/blob/main/SECURITY.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/discussions/15",
+        "title": "/discussions/15",
         "count": 1,
         "uniques": 1
       }
