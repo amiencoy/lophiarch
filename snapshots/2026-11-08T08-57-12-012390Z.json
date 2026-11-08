@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "source": "github_rest_api",
+  "repository": "amiencoy/lophiarch",
+  "captured_at": "2026-11-08T08:57:12.012390+00:00",
+  "window": "GitHub rolling 14 days; UTC; current day may be partial",
+  "data": {
+    "clones": {
+      "count": 177,
+      "uniques": 70,
+      "clones": [
+        {
+          "timestamp": "2026-10-25T00:00:00Z",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-10-26T00:00:00Z",
+          "count": 46,
+          "uniques": 14
+        },
+        {
+          "timestamp": "2026-10-27T00:00:00Z",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "timestamp": "2026-10-28T00:00:00Z",
+          "count": 9,
+          "uniques": 8
+        },
+        {
+          "timestamp": "2026-10-29T00:00:00Z",
+          "count": 17,
+          "uniques": 7
+        },
+        {
+          "timestamp": "2026-10-30T00:00:00Z",
+          "count": 34,
+          "uniques": 15
+        },
+        {
+          "timestamp": "2026-10-31T00:00:00Z",
+          "count": 13,
+          "uniques": 9
+        },
+        {
+          "timestamp": "2026-11-01T00:00:00Z",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "timestamp": "2026-11-02T00:00:00Z",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-11-03T00:00:00Z",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-11-04T00:00:00Z",
+          "count": 13,
+          "uniques": 8
+        },
+        {
+          "timestamp": "2026-11-05T00:00:00Z",
+          "count": 9,
+          "uniques": 5
+        },
+        {
+          "timestamp": "2026-11-06T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-11-07T00:00:00Z",
+          "count": 12,
+          "uniques": 8
+        }
+      ]
+    },
+    "views": {
+      "count": 34,
+      "uniques": 3,
+      "views": [
+        {
+          "timestamp": "2026-10-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-26T00:00:00Z",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-10-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-10-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-29T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-10-30T00:00:00Z",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-10-31T00:00:00Z",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-11-01T00:00:00Z",
+          "count": 12,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-11-02T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-03T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-04T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-05T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-06T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-07T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "paths": [
+      {
+        "path": "/amiencoy/lophiarch",
+        "title": "Overview",
+        "count": 13,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/wiki",
+        "title": "/wiki",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/pull/17",
+        "title": "/pull/17",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/amiencoy/lophiarch/issues",
+        "title": "/issues",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/pulls",
+        "title": "/pulls",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/wiki/_new",
+        "title": "/wiki/_new",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/blob/HEAD/SECURITY.md",
+        "title": "/blob/HEAD/SECURITY.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/blob/main/LICENSE",
+        "title": "/blob/main/LICENSE",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/blob/main/SECURITY.md",
+        "title": "/blob/main/SECURITY.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/discussions/15",
+        "title": "/discussions/15",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
+  }
+}
