@@ -2,18 +2,13 @@
   "schema_version": 1,
   "source": "github_rest_api",
   "repository": "amiencoy/lophiarch",
-  "captured_at": "2026-11-12T09:46:35.577578+00:00",
+  "captured_at": "2026-11-13T09:28:39.344835+00:00",
   "window": "GitHub rolling 14 days; UTC; current day may be partial",
   "data": {
     "clones": {
-      "count": 266,
-      "uniques": 76,
+      "count": 264,
+      "uniques": 80,
       "clones": [
-        {
-          "timestamp": "2026-10-29T00:00:00Z",
-          "count": 17,
-          "uniques": 7
-        },
         {
           "timestamp": "2026-10-30T00:00:00Z",
           "count": 34,
@@ -78,18 +73,18 @@
           "timestamp": "2026-11-11T00:00:00Z",
           "count": 12,
           "uniques": 6
+        },
+        {
+          "timestamp": "2026-11-12T00:00:00Z",
+          "count": 15,
+          "uniques": 11
         }
       ]
     },
     "views": {
-      "count": 38,
-      "uniques": 4,
+      "count": 41,
+      "uniques": 2,
       "views": [
-        {
-          "timestamp": "2026-10-29T00:00:00Z",
-          "count": 2,
-          "uniques": 2
-        },
         {
           "timestamp": "2026-10-30T00:00:00Z",
           "count": 10,
@@ -154,6 +149,11 @@
           "timestamp": "2026-11-11T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-12T00:00:00Z",
+          "count": 5,
+          "uniques": 1
         }
       ]
     },
@@ -162,13 +162,18 @@
         "referrer": "github.com",
         "count": 3,
         "uniques": 1
+      },
+      {
+        "referrer": "Bing",
+        "count": 1,
+        "uniques": 1
       }
     ],
     "paths": [
       {
         "path": "/amiencoy/lophiarch",
         "title": "Overview",
-        "count": 17,
+        "count": 21,
         "uniques": 2
       },
       {
@@ -180,19 +185,13 @@
       {
         "path": "/amiencoy/lophiarch/pulls",
         "title": "/pulls",
-        "count": 2,
+        "count": 3,
         "uniques": 1
       },
       {
         "path": "/amiencoy/lophiarch/wiki/_new",
         "title": "/wiki/_new",
         "count": 2,
-        "uniques": 1
-      },
-      {
-        "path": "/amiencoy/lophiarch/blob/HEAD/SECURITY.md",
-        "title": "/blob/HEAD/SECURITY.md",
-        "count": 1,
         "uniques": 1
       },
       {
@@ -220,8 +219,14 @@
         "uniques": 1
       },
       {
-        "path": "/amiencoy/lophiarch/pull/17",
-        "title": "/pull/17",
+        "path": "/amiencoy/lophiarch/security",
+        "title": "/security",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/amiencoy/lophiarch/security/dependabot",
+        "title": "/security/dependabot",
         "count": 1,
         "uniques": 1
       }
