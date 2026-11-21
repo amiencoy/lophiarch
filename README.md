@@ -1,6 +1,6 @@
 # Lophiarch traffic
 
-Last successful capture (UTC): **2026-11-20T09:58:44.729521+00:00**
+Last successful capture (UTC): **2026-11-21T09:44:37.525048+00:00**
 
 GitHub rolling 14-day totals, not lifetime totals.
 
