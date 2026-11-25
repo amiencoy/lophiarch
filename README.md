@@ -1,15 +1,15 @@
 # Lophiarch traffic
 
-Last successful capture (UTC): **2026-11-24T12:25:09.834368+00:00**
+Last successful capture (UTC): **2026-11-25T11:13:34.052580+00:00**
 
 GitHub rolling 14-day totals, not lifetime totals.
 
 | Metric | Count |
 |---|---:|
-| Views | 15 |
-| Unique visitors | 4 |
-| Clones | 179 |
-| Unique cloners | 71 |
+| Views | 13 |
+| Unique visitors | 3 |
+| Clones | 149 |
+| Unique cloners | 64 |
 
 Clones may include CI and other automation; unique cloners are not active users.
 Do not sum unique counts across days or overlapping snapshots.
